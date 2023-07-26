@@ -2,7 +2,7 @@ package Examples.EstruturasRepetitivas;
 
 import java.util.Scanner;
 
-public class EstruturaWhile {
+public class Program {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     int num;

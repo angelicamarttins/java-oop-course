@@ -5,13 +5,12 @@ import Examples.ClasseMembrosEstaticos.entities.Product;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class main {
+public class Program {
   public static void main(String[] args) {
     Locale.setDefault(Locale.US);
     Scanner sc = new Scanner(System.in);
 
     Product product = new Product();
-    int addProducts, removeProducts;
 
     System.out.println("Enter product data: ");
     System.out.print("Name: ");
