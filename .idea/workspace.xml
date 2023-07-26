@@ -5,55 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BoxingUnboxingWrapper/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseMembrosEstaticos/application/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseMembrosEstaticos/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConstrutoresEncapsulamento/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConstrutoresEncapsulamento/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataHora/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulamento/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulamento/entities/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex006Classes/Ex001/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex006Classes/Ex001/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex006Classes/Ex002/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex006Classes/Ex002/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex006Classes/Ex003/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex006Classes/Ex003/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex007MembrosEstaticos/CurrencyConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex007MembrosEstaticos/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex01/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex02/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex03/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex03/entities/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex04/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex05/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex06/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex07/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex08/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex09/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex09/entities/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex10/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex10/entities/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex11/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex11/entities/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex12/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex12/entities/Bedroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex009List/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex009List/entities/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex010Matriz/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForEach/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/withPOO/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/withPOO/entities/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/withoutPOO/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VetoresTipoReferencia/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VetoresTipoValor/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Debug.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EntradaDeDadosI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EntradaProcessamentoSaidaDeDados/EntradaDeDadosI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EntradaDeDadosII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EntradaProcessamentoSaidaDeDados/EntradaDeDadosII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstruturasRepetitivas/EstruturaWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProcessamentoDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EntradaProcessamentoSaidaDeDados/ProcessamentoDados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BoxingUnboxingWrapper/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/BoxingUnboxingWrapper/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClasseMembrosEstaticos/application/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/ClasseMembrosEstaticos/application/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClasseMembrosEstaticos/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/ClasseMembrosEstaticos/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConstrutoresEncapsulamento/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/ConstrutoresEncapsulamento/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConstrutoresEncapsulamento/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/ConstrutoresEncapsulamento/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataHora/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/DataHora/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Debug/Debug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/Debug/Debug.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Encapsulamento/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/Encapsulamento/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Encapsulamento/entities/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/Encapsulamento/entities/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EntradaProcessamentoSaidaDeDados/EntradaDeDadosI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/EntradaProcessamentoSaidaDeDados/EntradaDeDadosI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EntradaProcessamentoSaidaDeDados/EntradaDeDadosII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/EntradaProcessamentoSaidaDeDados/EntradaDeDadosII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EntradaProcessamentoSaidaDeDados/ProcessamentoDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/EntradaProcessamentoSaidaDeDados/ProcessamentoDados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturasRepetitivas/EstruturaWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/EstruturasRepetitivas/EstruturaWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/Ex009List/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Ex009List/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForEach/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/ForEach/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/List/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/withPOO/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/POO/withPOO/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/withPOO/entities/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/POO/withPOO/entities/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/withoutPOO/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/POO/withoutPOO/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VetoresTipoReferencia/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/VetoresTipoReferencia/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VetoresTipoReferencia/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/VetoresTipoReferencia/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VetoresTipoValor/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/VetoresTipoValor/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,21 +44,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": -1
+}]]></component>
   <component name="ProjectId" id="2QyDjo3GV0KENT9JWLUTo8bsZVO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/amartins/estudos/curso-java-nelio/src/Exercises/Ex008Vetores/Ex11&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/amartins/estudos/curso-java-nelio/src/Exercises/Ex008Vetores/Ex11",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex11" />
@@ -100,13 +78,39 @@
       <recent name="Exercises.Ex006Classes.Ex002" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DataHora.Program">
-    <configuration name="DataHora.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataHora.Program" />
+  <component name="RunManager" selected="Application.Examples.BoxingUnboxingWrapper.Program">
+    <configuration name="Examples.BoxingUnboxingWrapper.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.BoxingUnboxingWrapper.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataHora.*" />
+          <option name="PATTERN" value="Examples.BoxingUnboxingWrapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Examples.DataHora.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.DataHora.Program" />
+      <module name="curso-java-nelio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examples.DataHora.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Examples.List.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.List.Program" />
+      <module name="curso-java-nelio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examples.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,32 +124,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Exercises.Ex009List.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForEach.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForEach.Program" />
-      <module name="curso-java-nelio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ForEach.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="List.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List.Program" />
-      <module name="curso-java-nelio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DataHora.Program" />
+        <item itemvalue="Application.Examples.BoxingUnboxingWrapper.Program" />
+        <item itemvalue="Application.Examples.DataHora.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Exercises.Ex009List.application.Program" />
-        <item itemvalue="Application.List.Program" />
-        <item itemvalue="Application.ForEach.Program" />
+        <item itemvalue="Application.Examples.List.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +169,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/VetoresTipoValor/Program.java</url>
+          <url>file://$PROJECT_DIR$/src/Examples/VetoresTipoValor/Program.java</url>
           <line>14</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
