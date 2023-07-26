@@ -1,3 +1,5 @@
+package EntradaProcessamentoSaidaDeDados;
+
 import java.util.Scanner;
 
 public class EntradaDeDadosI {

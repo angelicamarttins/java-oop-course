@@ -1,3 +1,5 @@
+package EstruturasRepetitivas;
+
 import java.util.Scanner;
 
 public class EstruturaWhile {

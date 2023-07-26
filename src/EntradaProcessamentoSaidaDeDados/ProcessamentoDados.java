@@ -1,3 +1,5 @@
+package EntradaProcessamentoSaidaDeDados;
+
 public class ProcessamentoDados {
   public static void main(String[] args) {
     int x, y;
