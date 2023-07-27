@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="" />
+    <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examples/DataHora/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/DataHora/Program.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +60,7 @@
       <recent name="Exercises.Ex006Classes.Ex002" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Examples.Debug.Program">
+  <component name="RunManager" selected="Application.Examples.DataHora.Program">
     <configuration name="Examples.BoxingUnboxingWrapper.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Examples.BoxingUnboxingWrapper.Program" />
       <module name="curso-java-nelio" />
@@ -125,10 +128,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Examples.DataHora.Program" />
         <item itemvalue="Application.Examples.Debug.Program" />
         <item itemvalue="Application.Examples.ClasseMembrosEstaticos.application.Program" />
         <item itemvalue="Application.Examples.BoxingUnboxingWrapper.Program" />
-        <item itemvalue="Application.Examples.DataHora.Program" />
         <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
