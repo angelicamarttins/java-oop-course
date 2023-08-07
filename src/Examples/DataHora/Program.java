@@ -6,6 +6,7 @@ import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
+import java.time.temporal.ChronoUnit;
 
 public class Program {
   public static void main(String[] args) {
@@ -106,6 +107,14 @@ public class Program {
     System.out.println("Minuto " + localDateTime.getMinute());
     System.out.println("Segundo " + localDateTime.getSecond());
     System.out.println("Milissegundo " + localDateTime.getNano());
+
+    // Adicionar e subtrair data-hora
+    System.out.println("LocalDate mais uma semana " + localDate.plusWeeks(1));
+    System.out.println("LocalDate menos um mês " + localDate.minusMonths(1));
+    System.out.println("LocalDateTime mais uma hora " +localDateTime.plusHours(1));
+    System.out.println("Instant mais um dia " + instant.plus(1, ChronoUnit.DAYS));
+    System.out.println("Instant mais uma semana " + instant.plus(7, ChronoUnit.DAYS));
+    System.out.println("Instant menos um mês " + instant.minus(1, ChronoUnit.HOURS));
   }
 
 }
