@@ -1,5 +1,6 @@
 package Examples.DataHora;
 
+import java.time.Duration;
 import java.time.Instant;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
@@ -115,6 +116,20 @@ public class Program {
     System.out.println("Instant mais um dia " + instant.plus(1, ChronoUnit.DAYS));
     System.out.println("Instant mais uma semana " + instant.plus(7, ChronoUnit.DAYS));
     System.out.println("Instant menos um mês " + instant.minus(1, ChronoUnit.HOURS));
+
+    // Duração entre data-hora
+    Duration myAge = Duration
+        .between(LocalDateTime.of(1991,11,19, 15, 45),
+            LocalDateTime.now());
+    System.out.println("Minha idade " + myAge.toDays() / 365);
+
+    Duration myAge1 = Duration.between(LocalDate.of(1991,11,19).atStartOfDay(),
+        LocalDate.now().atStartOfDay());
+    System.out.println("Minha idade em LocalDate " + myAge1.toDays() / 365);
+
+    Duration myAge2 = Duration.between(LocalDate.of(1991,11,19).atTime(0,0),
+        LocalDate.now().atTime(0,0));
+    System.out.println("Minha idade em LocalDate " + myAge1.toDays() / 365);
   }
 
 }
