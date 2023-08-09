@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Examples/Enums/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Enums/entities/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Enums/entities/enums/OrderStatus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/DataHora/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/DataHora/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -59,7 +62,7 @@
       <recent name="Exercises.Ex006Classes.Ex002" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Examples.DataHora.Program">
+  <component name="RunManager" selected="Application.Examples.Enums.application.Program">
     <configuration name="Examples.BoxingUnboxingWrapper.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Examples.BoxingUnboxingWrapper.Program" />
       <module name="curso-java-nelio" />
@@ -112,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Ex010Matriz.Program" />
+    <configuration name="Examples.Enums.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Enums.application.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.Ex010Matriz.*" />
+          <option name="PATTERN" value="Examples.Enums.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Examples.Enums.application.Program" />
         <item itemvalue="Application.Examples.DataHora.Program" />
         <item itemvalue="Application.Examples.Debug.Program" />
         <item itemvalue="Application.Examples.ClasseMembrosEstaticos.application.Program" />
         <item itemvalue="Application.Examples.BoxingUnboxingWrapper.Program" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +148,10 @@
       <updated>1686317071149</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:terraform" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
