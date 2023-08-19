@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Examples/StringBuilderComposicao/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/StringBuilderComposicao/entities/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/StringBuilderComposicao/entities/Post.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/Composicao/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/Composicao/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +62,20 @@
       <recent name="Exercises.Ex006Classes.Ex002" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.Examples.Enums.application.Program">
+    <configuration name="Examples.BoxingUnboxingWrapper.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.BoxingUnboxingWrapper.Program" />
+      <module name="curso-java-nelio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examples.BoxingUnboxingWrapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Examples.ClasseMembrosEstaticos.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Examples.ClasseMembrosEstaticos.application.Program" />
       <module name="curso-java-nelio" />
@@ -113,26 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Composicao.application.Program" />
-      <module name="curso-java-nelio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Examples.Composicao.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Program" />
         <item itemvalue="Application.Examples.Enums.application.Program" />
         <item itemvalue="Application.Examples.DataHora.Program" />
         <item itemvalue="Application.Examples.Debug.Program" />
         <item itemvalue="Application.Examples.ClasseMembrosEstaticos.application.Program" />
+        <item itemvalue="Application.Examples.BoxingUnboxingWrapper.Program" />
       </list>
     </recent_temporary>
   </component>
