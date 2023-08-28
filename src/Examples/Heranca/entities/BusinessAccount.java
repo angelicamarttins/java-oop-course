@@ -1,6 +1,6 @@
 package Examples.Heranca.entities;
 
-public class BusinessAccount extends Account {
+public final class BusinessAccount extends Account {
   private Double loanLimit;
 
   public BusinessAccount() {
@@ -24,5 +24,11 @@ public class BusinessAccount extends Account {
     if (amount <= loanLimit) {
       balance += amount - 10.0;
     }
+  }
+
+  @Override
+  public void withdraw(double amount) {
+    super.withdraw(amount);
+    balance -= 2.0;
   }
 }
