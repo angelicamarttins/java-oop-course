@@ -5,10 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex012Polimorfismo/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex012Polimorfismo/entities/ImportedProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex012Polimorfismo/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex012Polimorfismo/entities/UsedProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/ClassesAbstratas/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/ClassesAbstratas/entities/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/ClassesAbstratas/entities/BusinessAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/ClassesAbstratas/entities/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/MetodosAbstratos/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/MetodosAbstratos/entities/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/MetodosAbstratos/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/MetodosAbstratos/entities/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/MetodosAbstratos/entities/enums/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex013ClassesAbstratas/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex013ClassesAbstratas/entities/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex013ClassesAbstratas/entities/Individual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex013ClassesAbstratas/entities/TaxPayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +53,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/amartins/marvin/github/backend&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/amartins/estudos/curso-java-nelio/src/Examples/ClassesAbstratas&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -53,11 +62,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Examples/ClassesAbstratas" />
+      <recent name="$PROJECT_DIR$/src/Examples" />
       <recent name="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex11" />
       <recent name="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex10" />
       <recent name="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex04" />
-      <recent name="$PROJECT_DIR$/src/Exercises/Ex008Vetores" />
-      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Examples.ClassesAbstratas" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Exercises.Ex008Vetores.Ex03.application" />
@@ -66,13 +78,13 @@
       <recent name="Exercises.Ex006Classes.Ex002" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercises.Ex012Polimorfismo.application.Program">
-    <configuration name="Examples.Heranca.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Heranca.application.Program" />
+  <component name="RunManager" selected="Application.Exercises.Ex013ClassesAbstratas.application.Program">
+    <configuration name="Examples.ClassesAbstratas.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.ClassesAbstratas.application.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.Heranca.application.*" />
+          <option name="PATTERN" value="Examples.ClassesAbstratas.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,19 +118,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Exercises.Ex013ClassesAbstratas.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.Ex013ClassesAbstratas.application.Program" />
       <module name="curso-java-nelio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.Ex013ClassesAbstratas.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Ex011Composicao.application.Program" />
+      <option name="MAIN_CLASS_NAME" value="Examples.MetodosAbstratos.application.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.Ex011Composicao.application.*" />
+          <option name="PATTERN" value="Examples.MetodosAbstratos.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercises.Ex013ClassesAbstratas.application.Program" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Examples.ClassesAbstratas.application.Program" />
         <item itemvalue="Application.Exercises.Ex012Polimorfismo.application.Program" />
         <item itemvalue="Application.Examples.Polimorfismo.application.Program" />
-        <item itemvalue="Application.Examples.Heranca.application.Program" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +185,10 @@
           <line>17</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.UnknownFormatConversionException" package="java.util" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
