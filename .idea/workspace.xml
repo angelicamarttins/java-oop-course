@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Examples/ClassesAbstratas/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/ClassesAbstratas/entities/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/ClassesAbstratas/entities/BusinessAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/ClassesAbstratas/entities/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/MetodosAbstratos/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/MetodosAbstratos/entities/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/MetodosAbstratos/entities/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/MetodosAbstratos/entities/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/MetodosAbstratos/entities/enums/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex013ClassesAbstratas/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex013ClassesAbstratas/entities/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex013ClassesAbstratas/entities/Individual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex013ClassesAbstratas/entities/TaxPayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Finally/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/TryCatch/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,13 +67,13 @@
       <recent name="Exercises.Ex006Classes.Ex002" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercises.Ex013ClassesAbstratas.application.Program">
-    <configuration name="Examples.ClassesAbstratas.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.ClassesAbstratas.application.Program" />
+  <component name="RunManager" selected="Application.Examples.Finally.Program">
+    <configuration name="Examples.Finally.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Finally.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.ClassesAbstratas.application.*" />
+          <option name="PATTERN" value="Examples.Finally.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Examples.Polimorfismo.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Polimorfismo.application.Program" />
+    <configuration name="Examples.TryCatch.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.TryCatch.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.Polimorfismo.application.*" />
+          <option name="PATTERN" value="Examples.TryCatch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercises.Ex013ClassesAbstratas.application.Program" />
+        <item itemvalue="Application.Examples.Finally.Program" />
+        <item itemvalue="Application.Examples.TryCatch.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.Examples.ClassesAbstratas.application.Program" />
+        <item itemvalue="Application.Exercises.Ex013ClassesAbstratas.application.Program" />
         <item itemvalue="Application.Exercises.Ex012Polimorfismo.application.Program" />
-        <item itemvalue="Application.Examples.Polimorfismo.application.Program" />
       </list>
     </recent_temporary>
   </component>
