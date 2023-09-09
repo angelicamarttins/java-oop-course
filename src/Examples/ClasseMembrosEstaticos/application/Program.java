@@ -28,7 +28,7 @@ public class Program {
     System.out.println("Enter the number of products to be removed in stocks: ");
     product.removeProducts(sc.nextInt());
 
-    System.out.println(product.toString());
+    System.out.println(product);
 
     sc.close();
   }
