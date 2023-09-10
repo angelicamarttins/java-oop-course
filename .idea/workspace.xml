@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex014Exception/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex014Exception/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex014Exception/model/entities/Reservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex014Exception/model/exception/InvalidCheckoutException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex014Exception/model/exception/InvalidReservationException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/ClasseMembrosEstaticos/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/ClasseMembrosEstaticos/application/Program.java" afterDir="false" />
-    </list>
+    <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +64,19 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Exercises.Ex014Exception.application.Program">
+    <configuration name="Examples.Exception.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Exception.application.Program" />
+      <module name="curso-java-nelio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examples.Exception.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Examples.Finally.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Examples.Finally.Program" />
       <module name="curso-java-nelio" />
@@ -91,19 +96,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Examples.TryCatch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercises.Ex013ClassesAbstratas.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Ex013ClassesAbstratas.application.Program" />
-      <module name="curso-java-nelio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercises.Ex013ClassesAbstratas.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,10 +132,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Exercises.Ex014Exception.application.Program" />
+        <item itemvalue="Application.Examples.Exception.application.Program" />
         <item itemvalue="Application.Examples.Finally.Program" />
         <item itemvalue="Application.Examples.TryCatch.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.Exercises.Ex013ClassesAbstratas.application.Program" />
       </list>
     </recent_temporary>
   </component>
