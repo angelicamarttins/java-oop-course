@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="" />
+    <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Examples/File/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/FileReader/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Folder/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/TryWithResourcesReader/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/TryWithResourcesWriter/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,22 +40,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/amartins/estudos/curso-java-nelio/src/Examples/ClassesAbstratas&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/amartins/estudos/curso-java-nelio/src/Examples",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Examples/ClassesAbstratas" />
       <recent name="$PROJECT_DIR$/src/Examples" />
+      <recent name="$PROJECT_DIR$/src/Examples/ClassesAbstratas" />
       <recent name="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex11" />
       <recent name="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex10" />
       <recent name="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex04" />
@@ -57,19 +64,20 @@
       <recent name="Examples.ClassesAbstratas" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Examples.TryWithResourcesWriter" />
+      <recent name="Examples.TryWithResources" />
+      <recent name="Examples.FileReader" />
       <recent name="Exercises.Ex008Vetores.Ex03.application" />
       <recent name="VatoresTipoReferencia.application" />
-      <recent name="Exercises.Ex006Classes.Ex003" />
-      <recent name="Exercises.Ex006Classes.Ex002" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercises.Ex014Exception.application.Program">
-    <configuration name="Examples.Exception.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Exception.application.Program" />
+  <component name="RunManager" selected="Application.Examples.Folder.Program">
+    <configuration name="Examples.File.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.File.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.Exception.application.*" />
+          <option name="PATTERN" value="Examples.File.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Examples.Finally.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Finally.Program" />
+    <configuration name="Examples.Folder.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Folder.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.Finally.*" />
+          <option name="PATTERN" value="Examples.Folder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Examples.TryCatch.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.TryCatch.Program" />
+    <configuration name="Examples.TryWithResourcesReader.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.TryWithResourcesReader.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.TryCatch.*" />
+          <option name="PATTERN" value="Examples.TryWithResourcesReader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercises.Ex014Exception.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Ex014Exception.application.Program" />
+    <configuration name="Examples.TryWithResourcesWriter.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.TryWithResourcesWriter.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.Ex014Exception.application.*" />
+          <option name="PATTERN" value="Examples.TryWithResourcesWriter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +125,11 @@
       </method>
     </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.MetodosAbstratos.application.Program" />
+      <option name="MAIN_CLASS_NAME" value="Examples.FileReader.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.MetodosAbstratos.application.*" />
+          <option name="PATTERN" value="Examples.FileReader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercises.Ex014Exception.application.Program" />
-        <item itemvalue="Application.Examples.Exception.application.Program" />
-        <item itemvalue="Application.Examples.Finally.Program" />
-        <item itemvalue="Application.Examples.TryCatch.Program" />
+        <item itemvalue="Application.Examples.Folder.Program" />
+        <item itemvalue="Application.Examples.TryWithResourcesWriter.Program" />
+        <item itemvalue="Application.Examples.TryWithResourcesReader.Program" />
         <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Examples.File.Program" />
       </list>
     </recent_temporary>
   </component>
