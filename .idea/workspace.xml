@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Examples/File/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/FileReader/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Folder/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/TryWithResourcesReader/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/TryWithResourcesWriter/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/PathFile/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex015Arquivos/model/entities/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/Ex015Arquivos/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Ex015Arquivos/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,18 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/amartins/estudos/curso-java-nelio/src/Examples",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/amartins/estudos/curso-java-nelio/src/Examples&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Examples" />
@@ -71,13 +69,13 @@
       <recent name="VatoresTipoReferencia.application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Examples.Folder.Program">
-    <configuration name="Examples.File.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.File.Program" />
+  <component name="RunManager" selected="Application.Exercises.Ex015Arquivos.Program">
+    <configuration name="Examples.Folder.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Folder.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.File.*" />
+          <option name="PATTERN" value="Examples.Folder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Examples.Folder.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Folder.Program" />
+    <configuration name="Examples.PathFile.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.PathFile.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.Folder.*" />
+          <option name="PATTERN" value="Examples.PathFile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.FileReader.Program" />
+    <configuration name="Exercises.Ex015Arquivos.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.Ex015Arquivos.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.FileReader.*" />
+          <option name="PATTERN" value="Exercises.Ex015Arquivos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercises.Ex015Arquivos.Program" />
+        <item itemvalue="Application.Examples.PathFile.Program" />
         <item itemvalue="Application.Examples.Folder.Program" />
         <item itemvalue="Application.Examples.TryWithResourcesWriter.Program" />
         <item itemvalue="Application.Examples.TryWithResourcesReader.Program" />
-        <item itemvalue="Application.Program" />
-        <item itemvalue="Application.Examples.File.Program" />
       </list>
     </recent_temporary>
   </component>
