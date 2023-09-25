@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Examples/Interface/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Interface/model/entities/CarRental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Interface/model/entities/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Interface/model/entities/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Interface/model/services/BrazilTaxService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Interface/model/services/RentalCarService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Interface/model/services/TaxService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utils/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/Ex016Interface/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Ex016Interface/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/Ex016Interface/model/entities/Contract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Ex016Interface/model/entities/Contract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/Ex016Interface/model/services/ContractService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Ex016Interface/model/services/ContractService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -78,7 +74,7 @@
       <recent name="VatoresTipoReferencia.application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.Exercises.Ex016Interface.application.Program">
     <configuration name="Examples.Folder.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Examples.Folder.Program" />
       <module name="curso-java-nelio" />
@@ -105,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Examples.TryWithResourcesWriter.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.TryWithResourcesWriter.Program" />
+    <configuration name="Exercises.Ex015Arquivos.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.Ex015Arquivos.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.TryWithResourcesWriter.*" />
+          <option name="PATTERN" value="Exercises.Ex015Arquivos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercises.Ex015Arquivos.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Ex015Arquivos.Program" />
+    <configuration name="Exercises.Ex016Interface.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.Ex016Interface.application.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.Ex015Arquivos.*" />
+          <option name="PATTERN" value="Exercises.Ex016Interface.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercises.Ex016Interface.application.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Exercises.Ex015Arquivos.Program" />
         <item itemvalue="Application.Examples.PathFile.Program" />
         <item itemvalue="Application.Examples.Folder.Program" />
-        <item itemvalue="Application.Examples.TryWithResourcesWriter.Program" />
       </list>
     </recent_temporary>
   </component>

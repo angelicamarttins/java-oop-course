@@ -3,7 +3,7 @@ package Examples.Exception.application;
 import Examples.Exception.model.entities.Reservation;
 import Examples.Exception.model.exception.InvalidCheckoutException;
 import Examples.Exception.model.exception.InvalidReservationException;
-import Utils.Utils;
+import Utils.DateUtils;
 
 import java.time.LocalDate;
 import java.util.Scanner;
@@ -33,10 +33,10 @@ public class Program {
     int roomNumber = sc.nextInt();
 
     System.out.print("Check-in date (dd/MM/yyyy): ");
-    LocalDate checkin = LocalDate.parse(sc.next(), Utils.fullYearMask());
+    LocalDate checkin = LocalDate.parse(sc.next(), DateUtils.fullYearMask());
 
     System.out.print("Check-out date (dd/MM/yyyy): ");
-    LocalDate checkout = LocalDate.parse(sc.next(), Utils.fullYearMask());
+    LocalDate checkout = LocalDate.parse(sc.next(), DateUtils.fullYearMask());
 
     Reservation reservation =
         new Reservation(roomNumber, checkin, checkout);
@@ -53,10 +53,10 @@ public class Program {
     System.out.println("Enter data to update the reservation:");
 
     System.out.print("Check-in date (dd/MM/yyyy): ");
-    LocalDate checkin = LocalDate.parse(sc.next(), Utils.fullYearMask());
+    LocalDate checkin = LocalDate.parse(sc.next(), DateUtils.fullYearMask());
 
     System.out.print("Check-out date (dd/MM/yyyy): ");
-    LocalDate checkout = LocalDate.parse(sc.next(), Utils.fullYearMask());
+    LocalDate checkout = LocalDate.parse(sc.next(), DateUtils.fullYearMask());
 
     reservation.updateDates(checkin, checkout);
     System.out.println(reservation);

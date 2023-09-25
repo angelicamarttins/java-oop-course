@@ -9,7 +9,7 @@ import java.time.LocalDateTime;
 import java.util.Locale;
 import java.util.Scanner;
 
-import static Utils.Utils.fullYearHourMask;
+import static Utils.DateUtils.fullYearHourMask;
 
 public class Program {
   public static void main(String[] args) {
