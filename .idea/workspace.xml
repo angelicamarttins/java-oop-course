@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Examples/InterfaceHeranca/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/InterfaceHeranca/model/entities/AbstractShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/InterfaceHeranca/model/entities/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/InterfaceHeranca/model/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/InterfaceHeranca/model/entities/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/InterfaceHeranca/model/enums/Color.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/Ex016Interface/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Ex016Interface/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/Ex016Interface/model/entities/Contract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Ex016Interface/model/entities/Contract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/Ex016Interface/model/services/ContractService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Ex016Interface/model/services/ContractService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +77,13 @@
       <recent name="VatoresTipoReferencia.application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercises.Ex016Interface.application.Program">
-    <configuration name="Examples.Folder.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Folder.Program" />
+  <component name="RunManager" selected="Application.Examples.InterfaceHeranca.application.Program">
+    <configuration name="Examples.InterfaceHeranca.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.InterfaceHeranca.application.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.Folder.*" />
+          <option name="PATTERN" value="Examples.InterfaceHeranca.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Examples.InterfaceHeranca.application.Program" />
         <item itemvalue="Application.Exercises.Ex016Interface.application.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Exercises.Ex015Arquivos.Program" />
         <item itemvalue="Application.Examples.PathFile.Program" />
-        <item itemvalue="Application.Examples.Folder.Program" />
       </list>
     </recent_temporary>
   </component>
