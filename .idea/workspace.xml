@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Examples/InterfaceHeranca/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/InterfaceHeranca/model/entities/AbstractShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/InterfaceHeranca/model/entities/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/InterfaceHeranca/model/entities/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/InterfaceHeranca/model/entities/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/InterfaceHeranca/model/enums/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/HerancaMultipla/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/HerancaMultipla/model/entities/ComboDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/HerancaMultipla/model/entities/ConcretePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/HerancaMultipla/model/entities/ConcreteScan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/HerancaMultipla/model/entities/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/HerancaMultipla/model/entities/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/HerancaMultipla/model/entities/Scanner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,13 +78,13 @@
       <recent name="VatoresTipoReferencia.application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Examples.InterfaceHeranca.application.Program">
-    <configuration name="Examples.InterfaceHeranca.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.InterfaceHeranca.application.Program" />
+  <component name="RunManager" selected="Application.Examples.HerancaMultipla.application.Program">
+    <configuration name="Examples.HerancaMultipla.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.HerancaMultipla.application.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.InterfaceHeranca.application.*" />
+          <option name="PATTERN" value="Examples.HerancaMultipla.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Examples.PathFile.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.PathFile.Program" />
+    <configuration name="Examples.InterfaceHeranca.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.InterfaceHeranca.application.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.PathFile.*" />
+          <option name="PATTERN" value="Examples.InterfaceHeranca.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Examples.HerancaMultipla.application.Program" />
         <item itemvalue="Application.Examples.InterfaceHeranca.application.Program" />
         <item itemvalue="Application.Exercises.Ex016Interface.application.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Exercises.Ex015Arquivos.Program" />
-        <item itemvalue="Application.Examples.PathFile.Program" />
       </list>
     </recent_temporary>
   </component>
