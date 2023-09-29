@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Examples/HerancaMultipla/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/HerancaMultipla/model/entities/ComboDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/HerancaMultipla/model/entities/ConcretePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/HerancaMultipla/model/entities/ConcreteScan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/HerancaMultipla/model/entities/Device.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/HerancaMultipla/model/entities/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/HerancaMultipla/model/entities/Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/InterfaceComparable/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/InterfaceComparable/model/entities/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examples/ClassesAbstratas/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/ClassesAbstratas/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examples/Composicao/entities/HourContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/Composicao/entities/HourContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examples/FileReader/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/FileReader/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examples/TryWithResourcesWriter/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/TryWithResourcesWriter/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/Ex006Classes/Ex003/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Ex006Classes/Ex003/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex11/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex11/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,22 +45,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/amartins/estudos/curso-java-nelio/src/Examples&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/amartins/estudos/curso-java-nelio/src/Examples",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Examples" />
@@ -78,7 +85,7 @@
       <recent name="VatoresTipoReferencia.application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Examples.HerancaMultipla.application.Program">
+  <component name="RunManager" selected="Application.Examples.InterfaceComparable.Program">
     <configuration name="Examples.HerancaMultipla.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Examples.HerancaMultipla.application.Program" />
       <module name="curso-java-nelio" />
@@ -92,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Examples.InterfaceHeranca.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.InterfaceHeranca.application.Program" />
+    <configuration name="Examples.InterfaceComparable.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.InterfaceComparable.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.InterfaceHeranca.application.*" />
+          <option name="PATTERN" value="Examples.InterfaceComparable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercises.Ex015Arquivos.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Ex015Arquivos.Program" />
+    <configuration name="Examples.InterfaceHeranca.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.InterfaceHeranca.application.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.Ex015Arquivos.*" />
+          <option name="PATTERN" value="Examples.InterfaceHeranca.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Examples.InterfaceComparable.Program" />
         <item itemvalue="Application.Examples.HerancaMultipla.application.Program" />
         <item itemvalue="Application.Examples.InterfaceHeranca.application.Program" />
         <item itemvalue="Application.Exercises.Ex016Interface.application.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.Exercises.Ex015Arquivos.Program" />
       </list>
     </recent_temporary>
   </component>

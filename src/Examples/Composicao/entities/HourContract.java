@@ -1,7 +1,6 @@
 package Examples.Composicao.entities;
 
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 
 public class HourContract {
   private LocalDate date;

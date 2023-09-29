@@ -1,7 +1,5 @@
 package Exercises.Ex006Classes.Ex003;
 
-import Exercises.Ex006Classes.Ex002.Employee;
-
 import java.util.Locale;
 import java.util.Scanner;
 

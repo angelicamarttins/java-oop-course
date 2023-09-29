@@ -2,7 +2,6 @@ package Examples.ClassesAbstratas.application;
 
 import Examples.ClassesAbstratas.entities.Account;
 import Examples.ClassesAbstratas.entities.BusinessAccount;
-import Examples.ClassesAbstratas.entities.SavingsAccount;
 
 import java.util.ArrayList;
 import java.util.List;
