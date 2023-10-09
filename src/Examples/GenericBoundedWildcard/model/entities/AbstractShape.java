@@ -1,7 +1,7 @@
-package Examples.InterfaceHeranca.model.entities;
+package Examples.GenericBoundedWildcard.model.entities;
 
 
-import Examples.InterfaceHeranca.model.enums.Color;
+import Examples.GenericBoundedWildcard.model.enums.Color;
 
 public abstract class AbstractShape implements Shape {
   private Color color;

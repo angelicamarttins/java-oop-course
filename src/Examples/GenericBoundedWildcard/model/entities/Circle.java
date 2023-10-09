@@ -1,6 +1,7 @@
-package Examples.InterfaceHeranca.model.entities;
+package Examples.GenericBoundedWildcard.model.entities;
 
-import Examples.InterfaceHeranca.model.enums.Color;
+
+import Examples.GenericBoundedWildcard.model.enums.Color;
 
 public class Circle extends AbstractShape {
   private static final double PI = 3.14159;

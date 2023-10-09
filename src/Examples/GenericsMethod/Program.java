@@ -8,8 +8,11 @@ public class Program {
     String a = "Angélica";
     int b = 31;
     List<Boolean> c = Arrays.asList(true, false);
+    List<String> d = Arrays.asList("Mayara");
 
     print(a, b, c);
+
+    print(a, b, d);
   }
 
   private static <T, K extends Number> void print(T a, K b, List<?> c) {

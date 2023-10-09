@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Examples/Generics/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Generics/model/services/PrintService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/GenericsMethod/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/GenericBoundedWIldcard2/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/GenericBoundedWildcard/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/GenericBoundedWildcard/model/entities/AbstractShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/GenericBoundedWildcard/model/entities/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/GenericBoundedWildcard/model/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/GenericBoundedWildcard/model/entities/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/GenericBoundedWildcard/model/enums/Color.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examples/GenericsMethod/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/GenericsMethod/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examples/InterfaceHeranca/model/entities/AbstractShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/InterfaceHeranca/model/entities/AbstractShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examples/InterfaceHeranca/model/entities/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/InterfaceHeranca/model/entities/Circle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -61,25 +68,28 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Examples.InterfaceHeranca.model.entities" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Examples" />
+      <recent name="$PROJECT_DIR$/src/Examples/" />
       <recent name="$PROJECT_DIR$/src/Examples/ClassesAbstratas" />
       <recent name="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex11" />
       <recent name="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex10" />
-      <recent name="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex04" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Examples.ClassesAbstratas" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Examples.GenericBoundedWildcard.model.entities" />
+      <recent name="Examples.GenericBoundedWildcard.model.enums" />
       <recent name="Examples.DefaultMethod.model.services" />
       <recent name="Examples.TryWithResourcesWriter" />
       <recent name="Examples.TryWithResources" />
-      <recent name="Examples.FileReader" />
-      <recent name="Exercises.Ex008Vetores.Ex03.application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Examples.GenericsMethod.Program">
+  <component name="RunManager" selected="Application.Examples.GenericBoundedWIldcard2.Program">
     <configuration name="Examples.DefaultMethod.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Examples.DefaultMethod.application.Program" />
       <module name="curso-java-nelio" />
@@ -93,38 +103,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Examples.GenericBoundedWIldcard2.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.GenericBoundedWIldcard2.Program" />
+      <module name="curso-java-nelio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examples.GenericBoundedWIldcard2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Examples.GenericBoundedWildcard.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.GenericBoundedWildcard.application.Program" />
+      <module name="curso-java-nelio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examples.GenericBoundedWildcard.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Examples.GenericsMethod.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Examples.GenericsMethod.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Examples.GenericsMethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Examples.HerancaMultipla.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.HerancaMultipla.application.Program" />
-      <module name="curso-java-nelio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Examples.HerancaMultipla.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Examples.InterfaceComparable.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.InterfaceComparable.Program" />
-      <module name="curso-java-nelio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Examples.InterfaceComparable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Examples.GenericBoundedWIldcard2.Program" />
+        <item itemvalue="Application.Examples.GenericBoundedWildcard.application.Program" />
         <item itemvalue="Application.Examples.GenericsMethod.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Examples.DefaultMethod.application.Program" />
-        <item itemvalue="Application.Examples.InterfaceComparable.Program" />
-        <item itemvalue="Application.Examples.HerancaMultipla.application.Program" />
       </list>
     </recent_temporary>
   </component>
