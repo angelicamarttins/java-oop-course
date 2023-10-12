@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Examples/Set2/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Set2/entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Set2/file/users.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Set/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Set/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Map/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Map/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Map/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Map/entities/Candidate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Map/file/candidates.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,10 +84,16 @@
       <recent name="Examples.TryWithResources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercises.Set.Program">
-    <configuration name="Codewars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codewars" />
+  <component name="RunManager" selected="Application.Exercises.Map.application.Program">
+    <configuration name="Examples.Map.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Map.application.Program" />
       <module name="curso-java-nelio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examples.Map.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,6 +124,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercises.Map.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.Map.application.Program" />
+      <module name="curso-java-nelio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.Map.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercises.Set.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises.Set.Program" />
       <module name="curso-java-nelio" />
@@ -131,26 +150,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.HashCodeEquals.application.Program" />
-      <module name="curso-java-nelio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Examples.HashCodeEquals.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercises.Map.application.Program" />
+        <item itemvalue="Application.Examples.Map.application.Program" />
         <item itemvalue="Application.Exercises.Set.Program" />
         <item itemvalue="Application.Examples.Set2.application.Program" />
         <item itemvalue="Application.Examples.Set.Program" />
-        <item itemvalue="Application.Program" />
-        <item itemvalue="Application.Codewars" />
       </list>
     </recent_temporary>
   </component>
