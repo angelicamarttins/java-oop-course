@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Examples/HashCodeEquals/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/HashCodeEquals/entities/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Set/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Set2/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Set2/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Set2/file/users.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Set/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Set/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +84,7 @@
       <recent name="Examples.TryWithResources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Examples.Set.Program">
+  <component name="RunManager" selected="Application.Exercises.Set.Program">
     <configuration name="Codewars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Codewars" />
       <module name="curso-java-nelio" />
@@ -90,25 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Examples.GenericBoundedWIldcard2.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.GenericBoundedWIldcard2.Program" />
+    <configuration name="Examples.Set2.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Set2.application.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.GenericBoundedWIldcard2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Examples.GenericBoundedWildcard.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.GenericBoundedWildcard.application.Program" />
-      <module name="curso-java-nelio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Examples.GenericBoundedWildcard.application.*" />
+          <option name="PATTERN" value="Examples.Set2.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,6 +111,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Examples.Set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercises.Set.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.Set.Program" />
+      <module name="curso-java-nelio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercises.Set.Program" />
+        <item itemvalue="Application.Examples.Set2.application.Program" />
         <item itemvalue="Application.Examples.Set.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Codewars" />
-        <item itemvalue="Application.Examples.GenericBoundedWIldcard2.Program" />
-        <item itemvalue="Application.Examples.GenericBoundedWildcard.application.Program" />
       </list>
     </recent_temporary>
   </component>
