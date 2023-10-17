@@ -1,7 +1,7 @@
-package Exercises.Map.application;
+package Exercises.Ex018Map.application;
 
 
-import Exercises.Map.entities.Candidate;
+import Exercises.Ex018Map.entities.Candidate;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

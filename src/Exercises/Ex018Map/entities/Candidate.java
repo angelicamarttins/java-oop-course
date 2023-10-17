@@ -1,4 +1,4 @@
-package Exercises.Map.entities;
+package Exercises.Ex018Map.entities;
 
 public class Candidate implements Comparable<Candidate> {
   private String name;
