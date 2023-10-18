@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Examples/Comparator/ProductComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Comparator/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Comparator/model/entities/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/Map/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Ex018Map/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/Map/entities/Candidate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Ex018Map/entities/Candidate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/Map/file/candidates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Ex018Map/file/candidates.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/Set/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Ex017Set/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/Set/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Ex017Set/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examples/Consumer/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/Consumer/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,37 +36,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/amartins/estudos/curso-java-nelio/src/Examples&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/amartins/estudos/curso-java-nelio/src/Examples/Consumer",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;TEXT&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Examples.InterfaceHeranca.model.entities" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Examples/Consumer" />
+      <recent name="$PROJECT_DIR$/src/Examples/Predicate" />
       <recent name="$PROJECT_DIR$/src/Examples" />
       <recent name="$PROJECT_DIR$/src/Examples/" />
       <recent name="$PROJECT_DIR$/src/Examples/ClassesAbstratas" />
-      <recent name="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex11" />
-      <recent name="$PROJECT_DIR$/src/Exercises/Ex008Vetores/Ex10" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Examples.ClassesAbstratas" />
@@ -87,7 +79,7 @@
       <recent name="Examples.TryWithResources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Examples.Comparator.application.Program">
+  <component name="RunManager" selected="Application.Program">
     <configuration name="Examples.Comparator.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Examples.Comparator.application.Program" />
       <module name="curso-java-nelio" />
@@ -114,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Examples.Set2.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Set2.application.Program" />
+    <configuration name="Examples.Predicate.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Predicate.application.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.Set2.application.*" />
+          <option name="PATTERN" value="Examples.Predicate.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +133,11 @@
       </method>
     </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Ex018Map.application.Program" />
+      <option name="MAIN_CLASS_NAME" value="Examples.Consumer.application.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.Ex018Map.application.*" />
+          <option name="PATTERN" value="Examples.Consumer.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,10 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Examples.Predicate.application.Program" />
         <item itemvalue="Application.Examples.Comparator.application.Program" />
         <item itemvalue="Application.Examples.Map.application.Program" />
         <item itemvalue="Application.Exercises.Ex017Set.Program" />
-        <item itemvalue="Application.Examples.Set2.application.Program" />
       </list>
     </recent_temporary>
   </component>
