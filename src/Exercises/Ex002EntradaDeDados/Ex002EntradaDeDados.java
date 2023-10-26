@@ -1,4 +1,4 @@
-package Exercises;
+package Exercises.Ex002EntradaDeDados;
 
 import java.util.Locale;
 import java.util.Scanner;

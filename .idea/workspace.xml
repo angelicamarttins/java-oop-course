@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Examples/Function/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Function/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Function/entities/UppercaseFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Stream/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/CreateNewDirectories.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,13 +81,13 @@
       <recent name="Examples.TryWithResourcesWriter" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Examples.Function.application.Program">
-    <configuration name="Examples.Comparator.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Comparator.application.Program" />
+  <component name="RunManager" selected="Application.CreateNewDirectories">
+    <configuration name="CreateNewDirectories" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.CreateNewDirectories" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.Comparator.application.*" />
+          <option name="PATTERN" value="Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Examples.Map.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Map.application.Program" />
+    <configuration name="Examples.Predicate.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Predicate.application.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.Map.application.*" />
+          <option name="PATTERN" value="Examples.Predicate.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Examples.Predicate.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Predicate.application.Program" />
+    <configuration name="Examples.Stream.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Stream.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.Predicate.application.*" />
+          <option name="PATTERN" value="Examples.Stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CreateNewDirectories" />
+        <item itemvalue="Application.Examples.Stream.Program" />
         <item itemvalue="Application.Examples.Function.application.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Examples.Predicate.application.Program" />
-        <item itemvalue="Application.Examples.Comparator.application.Program" />
-        <item itemvalue="Application.Examples.Map.application.Program" />
       </list>
     </recent_temporary>
   </component>

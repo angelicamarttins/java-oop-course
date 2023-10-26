@@ -1,4 +1,4 @@
-package Exercises;
+package Exercises.Ex003IfElse;
 
 import java.util.HashMap;
 import java.util.Map;

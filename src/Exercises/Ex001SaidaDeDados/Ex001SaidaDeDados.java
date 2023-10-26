@@ -1,4 +1,4 @@
-package Exercises;// Processamento de dados
+package Exercises.Ex001SaidaDeDados;// Processamento de dados
 
 import java.util.Locale;
 

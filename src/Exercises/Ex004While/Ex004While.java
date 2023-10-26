@@ -1,4 +1,4 @@
-package Exercises;
+package Exercises.Ex004While;
 
 import java.util.Scanner;
 
