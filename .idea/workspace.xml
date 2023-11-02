@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7e7194-4f09-4594-9808-61e67fbbbafc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Examples/Stream/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/CreateNewDirectories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex019Stream/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex019Stream/csv/products.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex019Stream/entities/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,13 +82,13 @@
       <recent name="Examples.TryWithResourcesWriter" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CreateNewDirectories">
+  <component name="RunManager" selected="Application.Exercises.Ex019Stream.application.Program">
     <configuration name="CreateNewDirectories" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises.CreateNewDirectories" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.*" />
+          <option name="PATTERN" value="Exercises.Ex001SaidaDeDados.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Examples.Predicate.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Predicate.application.Program" />
+    <configuration name="Examples.Stream.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Stream.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.Predicate.application.*" />
+          <option name="PATTERN" value="Examples.Stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Examples.Stream.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Stream.Program" />
+    <configuration name="Exercises.Ex019Stream.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.Ex019Stream.application.Program" />
       <module name="curso-java-nelio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.Stream.*" />
+          <option name="PATTERN" value="Exercises.Ex019Stream.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercises.Ex019Stream.application.Program" />
         <item itemvalue="Application.CreateNewDirectories" />
         <item itemvalue="Application.Examples.Stream.Program" />
         <item itemvalue="Application.Examples.Function.application.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.Examples.Predicate.application.Program" />
       </list>
     </recent_temporary>
   </component>
