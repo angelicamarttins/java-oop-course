@@ -27,7 +27,7 @@ public class Program {
       while (line != null) {
         String[] lineFields = line.split(",");
         String name = lineFields[0];
-        double price = Double.valueOf(lineFields[1]);
+        double price = Double.parseDouble(lineFields[1]);
 
         products.add(new Product(name, price));
 
@@ -36,15 +36,15 @@ public class Program {
 
       double averageProducts = products
           .stream()
-          .map(product -> product.getPrice())
-          .reduce(0.0, (product1, product2) -> product1 + product2) / products.size();
+          .map(Product::getPrice)
+          .reduce(0.0, Double::sum) / products.size();
 
       Comparator<String> comparator = Comparator.comparing(String::toUpperCase);
 
       List<String> sortedProducts = products
           .stream()
           .filter(product -> product.getPrice() < averageProducts)
-          .map(product -> product.getName())
+          .map(Product::getName)
           .sorted(comparator.reversed())
           .collect(Collectors.toList());
 
@@ -58,4 +58,4 @@ public class Program {
     }
   }
 }
-///home/amartins/estudos/curso-java-nelio/src/Exercises/Ex019Stream/csv/products.csv
+///home/amartins/estudos/curso-java-nelio/src/Examples/Stream2/csv/products.csv
