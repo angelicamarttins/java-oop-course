@@ -21,7 +21,7 @@ public class Program {
       System.out.printf("Employee #%d data:\n", i);
 
       System.out.print("Outsourced (y/n)? ");
-      boolean isOutsourcedEmployee = sc.next().charAt(0) == 'y' ? true : false;
+      boolean isOutsourcedEmployee = sc.next().charAt(0) == 'y';
       sc.nextLine();
 
       System.out.print("Name: ");
